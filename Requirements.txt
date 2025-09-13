@@ -1,0 +1,6 @@
+Requirements: 
+Pandas Library Python
+NumPy Library
+Plotly Library
+Matplotlib
+Seaborn 
